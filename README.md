@@ -1,3 +1,6 @@
+ <img src="https://github.com/zeynepcircir/my-portfolio/assets/81877446/9e743002-0f1b-4a01-9012-12f30b78d59a" alt="Image 3" width="1000">
+
+
 # Portfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
