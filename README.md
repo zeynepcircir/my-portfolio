@@ -1,4 +1,3 @@
- <img src="https://github.com/zeynepcircir/product/blob/master/src/assets/x.png?raw=true" alt="Image 3" width="1000">
 
 
 # Portfolio
